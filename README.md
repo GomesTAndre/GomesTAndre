@@ -16,25 +16,18 @@ https://raw.githubusercontent.com/GomesTAndre/GomesTAndre/master/image/computer-
 #### Studying in this moment:
 
 
-[![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
-[![Pyton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
-[![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]
-[![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Pyton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-
-
-
- <div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
- </div>
-
+### testes
    
-![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white) ;
-![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress) ;
+![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white) 
+![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress) 
 
 </div>
  
 #### Workstation Tools:
  
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white) ;
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white) 
