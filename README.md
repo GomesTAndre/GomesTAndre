@@ -31,3 +31,5 @@ https://raw.githubusercontent.com/GomesTAndre/GomesTAndre/master/image/computer-
 #### Workstation Tools:
  
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white) 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D86&height=120&section=footer"/>
